@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-Meu nome é Vitor Santana, tenho 20 anos e sou desenvolvedor Java. Atualmente, curso Análise e Desenvolvimento de Sistemas e tenho experiência no desenvolvimento de aplicações com Spring Boot. Possuo conhecimento em lógica de programação, MySQL, H2, HTML, CSS, JavaScript, e venho ampliando meus estudos na área de infraestrutura. Sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades por meio de projetos e novos aprendizados.
+Meu nome é Vitor Santana, tenho 20 anos e sou desenvolvedor Java. Atualmente, curso Análise e Desenvolvimento de Sistemas e tenho experiência no desenvolvimento de aplicações com Spring Boot. Possuo conhecimento em lógica de programação, MySQL, H2, Git, HTML, CSS, JavaScript, e venho ampliando meus estudos na área de infraestrutura. Sou apaixonado por tecnologia e busco constantemente aprimorar minhas habilidades por meio de projetos e novos aprendizados.
 
 ---
 
