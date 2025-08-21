@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Vitor Santana
+# Vitor Santana
 
 **`Desenvolvedor Java`**
 
